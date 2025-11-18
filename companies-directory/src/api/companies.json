@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Inc.",
+    "location": "Cupertino, CA, USA",
+    "industry": "Technology",
+    "founded": 1976,
+    "employees": 164000,
+    "website": "https://apple.com"
+  },
+  {
+    "id": 2,
+    "name": "Google LLC",
+    "location": "Mountain View, CA, USA",
+    "industry": "Technology",
+    "founded": 1998,
+    "employees": 182502,
+    "website": "https://google.com"
+  },
+  {
+    "id": 3,
+    "name": "Microsoft Corporation",
+    "location": "Redmond, WA, USA",
+    "industry": "Technology",
+    "founded": 1975,
+    "employees": 221000,
+    "website": "https://microsoft.com"
+  },
+  {
+    "id": 4,
+    "name": "Amazon",
+    "location": "Seattle, WA, USA",
+    "industry": "E-commerce",
+    "founded": 1994,
+    "employees": 1525000,
+    "website": "https://amazon.com"
+  },
+  {
+    "id": 5,
+    "name": "Tesla, Inc.",
+    "location": "Austin, TX, USA",
+    "industry": "Automotive",
+    "founded": 2003,
+    "employees": 140473,
+    "website": "https://tesla.com"
+  },
+  {
+    "id": 6,
+    "name": "Toyota Motor Corporation",
+    "location": "Toyota City, Japan",
+    "industry": "Automotive",
+    "founded": 1937,
+    "employees": 375235,
+    "website": "https://toyota.com"
+  },
+  {
+    "id": 7,
+    "name": "Coca-Cola Company",
+    "location": "Atlanta, GA, USA",
+    "industry": "Beverages",
+    "founded": 1886,
+    "employees": 79000,
+    "website": "https://coca-cola.com"
+  },
+  {
+    "id": 8,
+    "name": "Samsung Electronics",
+    "location": "Suwon, South Korea",
+    "industry": "Electronics",
+    "founded": 1938,
+    "employees": 270372,
+    "website": "https://samsung.com"
+  },
+    {
+    "id": 9,
+    "name": "JPMorgan Chase & Co.",
+    "location": "New York, NY, USA",
+    "industry": "Finance",
+    "founded": 2000,
+    "employees": 309926,
+    "website": "https://jpmorganchase.com"
+  },
+  {
+    "id": 10,
+    "name": "Pfizer Inc.",
+    "location": "New York, NY, USA",
+    "industry": "Pharmaceuticals",
+    "founded": 1849,
+    "employees": 83000,
+    "website": "https://pfizer.com"
+  },
+  {
+    "id": 11,
+    "name": "Meta Platforms, Inc.",
+    "location": "Menlo Park, CA, USA",
+    "industry": "Technology",
+    "founded": 2004,
+    "employees": 67317,
+    "website": "https://meta.com"
+  },
+  {
+    "id": 12,
+    "name": "Netflix, Inc.",
+    "location": "Los Gatos, CA, USA",
+    "industry": "Entertainment",
+    "founded": 1997,
+    "employees": 12800,
+    "website": "https://netflix.com"
+  },
+  {
+    "id": 13,
+    "name": "NVIDIA Corporation",
+    "location": "Santa Clara, CA, USA",
+    "industry": "Technology",
+    "founded": 1993,
+    "employees": 28000,
+    "website": "https://nvidia.com"
+  },
+  {
+    "id": 14,
+    "name": "Intel Corporation",
+    "location": "Santa Clara, CA, USA",
+    "industry": "Technology",
+    "founded": 1968,
+    "employees": 110600,
+    "website": "https://intel.com"
+  },
+  {
+    "id": 15,
+    "name": "Walmart Inc.",
+    "location": "Bentonville, AR, USA",
+    "industry": "Retail",
+    "founded": 1962,
+    "employees": 2100000,
+    "website": "https://walmart.com"
+  },
+  {
+    "id": 16,
+    "name": "Costco Wholesale Corporation",
+    "location": "Issaquah, WA, USA",
+    "industry": "Retail",
+    "founded": 1983,
+    "employees": 308000,
+    "website": "https://costco.com"
+  },
+  {
+    "id": 17,
+    "name": "The Walt Disney Company",
+    "location": "Burbank, CA, USA",
+    "industry": "Entertainment",
+    "founded": 1923,
+    "employees": 220000,
+    "website": "https://disney.com"
+  },
+  {
+    "id": 18,
+    "name": "Visa Inc.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Finance",
+    "founded": 1958,
+    "employees": 24500,
+    "website": "https://visa.com"
+  },
+  {
+    "id": 19,
+    "name": "Mastercard Incorporated",
+    "location": "Purchase, NY, USA",
+    "industry": "Finance",
+    "founded": 1966,
+    "employees": 25000,
+    "website": "https://mastercard.com"
+  },
+  {
+    "id": 20,
+    "name": "Bank of America Corporation",
+    "location": "Charlotte, NC, USA",
+    "industry": "Finance",
+    "founded": 1998,
+    "employees": 213193,
+    "website": "https://bankofamerica.com"
+  },
+  {
+    "id": 21,
+    "name": "Wells Fargo & Company",
+    "location": "San Francisco, CA, USA",
+    "industry": "Finance",
+    "founded": 1852,
+    "employees": 254500,
+    "website": "https://wellsfargo.com"
+  },
+  {
+    "id": 22,
+    "name": "Goldman Sachs Group, Inc.",
+    "location": "New York, NY, USA",
+    "industry": "Finance",
+    "founded": 1869,
+    "employees": 49600,
+    "website": "https://goldmansachs.com"
+  },
+  {
+    "id": 23,
+    "name": "Johnson & Johnson",
+    "location": "New Brunswick, NJ, USA",
+    "industry": "Pharmaceuticals",
+    "founded": 1886,
+    "employees": 135000,
+    "website": "https://jnj.com"
+  },
+  {
+    "id": 24,
+    "name": "Novartis AG",
+    "location": "Basel, Switzerland",
+    "industry": "Pharmaceuticals",
+    "founded": 1996,
+    "employees": 108000,
+    "website": "https://novartis.com"
+  },
+  {
+    "id": 25,
+    "name": "Nestlé S.A.",
+    "location": "Vevey, Switzerland",
+    "industry": "Food & Beverage",
+    "founded": 1866,
+    "employees": 311000,
+    "website": "https://nestle.com"
+  },
+  {
+    "id": 26,
+    "name": "Unilever PLC",
+    "location": "London, United Kingdom",
+    "industry": "Consumer Goods",
+    "founded": 1930,
+    "employees": 124000,
+    "website": "https://unilever.com"
+  },
+  {
+    "id": 27,
+    "name": "Procter & Gamble Company",
+    "location": "Cincinnati, OH, USA",
+    "industry": "Consumer Goods",
+    "founded": 1837,
+    "employees": 107000,
+    "website": "https://pg.com"
+  },
+  {
+    "id": 28,
+    "name": "General Motors Company",
+    "location": "Detroit, MI, USA",
+    "industry": "Automotive",
+    "founded": 1908,
+    "employees": 127000,
+    "website": "https://gm.com"
+  },
+  {
+    "id": 29,
+    "name": "Ford Motor Company",
+    "location": "Dearborn, MI, USA",
+    "industry": "Automotive",
+    "founded": 1903,
+    "employees": 182000,
+    "website": "https://ford.com"
+  },
+  {
+    "id": 30,
+    "name": "BMW Group",
+    "location": "Munich, Germany",
+    "industry": "Automotive",
+    "founded": 1916,
+    "employees": 149475,
+    "website": "https://bmw.com"
+  }
+]
